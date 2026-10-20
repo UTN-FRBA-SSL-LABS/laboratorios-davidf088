@@ -1,0 +1,6 @@
+=== Tests de integracion ===  [OK]   carrito_descuento(carrito_total(&c), 10) == 1170
+  [OK]   c.cantidad == 4
+  [OK]   carrito_agregar(&c,l) == 0
+  [OK]   c.cantidad == 4
+
+--- 4/4 tests OK ---
